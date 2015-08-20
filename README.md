@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # angular-chart.js
 
 [![Bower version](https://badge.fury.io/bo/angular-chart.js.svg)](http://badge.fury.io/bo/angular-chart.js)
@@ -165,3 +166,8 @@ Jerome Touffe-Blin, [@jtblin](https://twitter.com/jtblin), [About me](http://abo
 
 angular-chart.js is copyright 2015 Jerome Touffe-Blin and contributors. 
 It is licensed under the BSD license. See the include LICENSE file for details.
+=======
+# AngularChartWithBower
+Angularjs Chart With Bower Dir Handy
+# Using AngularJS Chart as a begin to turn it into Dashboard App.
+>>>>>>> origin/master
